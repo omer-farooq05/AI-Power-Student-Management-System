@@ -1,1 +1,1 @@
-# Student-Marks-Analysis
+# student-management-system
